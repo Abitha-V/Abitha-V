@@ -25,10 +25,12 @@ Currently targeting roles in **Data Analytics · Business Intelligence · Fintec
 
 ## Featured Projects
 
-### 🤖 Agentic AI Financial Advisory Chatbot
-`Flowise` `LangChain` `OpenAI API` `RAG` `Vector Store`
+### 🤖 Software Development Multi-Agent System
+`Flowise` `Gemini 2.5 Flash` `Google AI` `Multi-Agent Orchestration` `Prompt Engineering`
 
-Multi-agent conversational system for personalised banking product recommendations (credit cards, FDs, loans). Built with intent recognition, tool-use, memory chains, and full observability across agent nodes for reproducible, hallucination-controlled outputs.
+Supervisor-worker multi-agent system that simulates a real software development team — a Supervisor LLM dynamically routes tasks between a Software Engineer and Code Reviewer via structured JSON output and runtime flow state. Agents loop iteratively (up to 5 cycles) until the Supervisor emits FINISH, then a synthesizer node delivers the final code with full review. Built on Flowise Agentflow with all-messages memory across all nodes.
+
+🔗 [View Repository](https://github.com/Abitha-V/software-development-agents)
 
 ---
 
